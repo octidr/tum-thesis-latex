@@ -1,0 +1,236 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{blieninger1}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BB}{%
+         family={{Blieninger}},
+         familyi={B\bibinitperiod},
+         given={Bernhard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BB1}
+    \strng{fullhash}{BB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Bli}19}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Online Machine Learning for improved decision making
+  regarding the migration of automotive software components at runtime}
+    \field{year}{2019}
+  \endentry
+
+  \entry{buttazzo1}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BGC}{%
+         family={{Buttazzo}},
+         familyi={B\bibinitperiod},
+         given={Giorgio\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGC1}
+    \strng{fullhash}{BGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{But}11}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1007/978-1-4614-0676-1
+    \endverb
+    \field{title}{Hard Real-Time Computing Systems}
+    \field{year}{2011}
+  \endentry
+
+  \entry{mundhenk1}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=MP}{%
+         family={{Mundhenk}},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={{Tibba}},
+         familyi={T\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={{Zhang}},
+         familyi={Z\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RF}{%
+         family={{Reimann}},
+         familyi={R\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={{Roy}},
+         familyi={R\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={{Chakraborty}},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPTGZL+1}
+    \strng{fullhash}{MPTGZLRFRDCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Mun}+17}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{2017 54th ACM/EDAC/IEEE Design Automation Conference
+  (DAC)}
+    \verb{doi}
+    \verb 10.1145/3061639.3072950
+    \endverb
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Dynamic platforms for uncertainty management in future
+  automotive E/E architectures}
+    \field{year}{2017}
+  \endentry
+
+  \entry{taieb1}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TS}{%
+         family={{Taieb}},
+         familyi={T\bibinitperiod},
+         given={Sam},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TS1}
+    \strng{fullhash}{TS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Tai}19}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Deep Learning Based Schedulability Analysis for Migration of
+  Software Components at Runtime}
+    \field{year}{2019}
+  \endentry
+
+  \entry{utz1}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=UT}{%
+         family={{Utz}},
+         familyi={U\bibinitperiod},
+         given={Tatjana},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UT1}
+    \strng{fullhash}{UT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Utz}19}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{Vergleich von heuristischen und Deep Learning basierten
+  Schedulability Analyse Verfahren für die Migration von Softwarekomponenten
+  zur Laufzeit}
+    \field{year}{2019}
+  \endentry
+
+  \entry{vipin1}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=VK}{%
+         family={{Vipin}},
+         familyi={V\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={{Shreejith}},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FSA}{%
+         family={{Fahmy}},
+         familyi={F\bibinitperiod},
+         given={S.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={{Easwaran}},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VKSSFSAEA1}
+    \strng{fullhash}{VKSSFSAEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Vip}+14}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{booktitle}{2014 IEEE International Conference on Cyber-Physical
+  Systems, Networks, and Applications}
+    \verb{doi}
+    \verb 10.1109/CPSNA.2014.14
+    \endverb
+    \field{pages}{31\bibrangedash 36}
+    \field{title}{Mapping Time-Critical Safety-Critical Cyber Physical Systems
+  to Hybrid FPGAs}
+    \field{year}{2014}
+  \endentry
+
+  \entry{vipin2}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=VK}{%
+         family={{Vipin}},
+         familyi={V\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VK1}
+    \strng{fullhash}{VK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Vip}18}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{booktitle}{2018 IEEE 61st International Midwest Symposium on
+  Circuits and Systems (MWSCAS)}
+    \verb{doi}
+    \verb 10.1109/MWSCAS.2018.8624006
+    \endverb
+    \field{pages}{940\bibrangedash 943}
+    \field{title}{CANNoC: An open-source NoC architecture for ECU
+  consolidation}
+    \field{year}{2018}
+  \endentry
+\enddatalist
+\endinput
