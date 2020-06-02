@@ -61,6 +61,40 @@
     \field{year}{2011}
   \endentry
 
+  \entry{kia1}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ES}{%
+         family={{Eckl}},
+         familyi={E\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={{Krefft}},
+         familyi={K\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={{Baumgarten}},
+         familyi={B\bibinitperiod},
+         given={U.},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ESKDBU1}
+    \strng{fullhash}{ESKDBU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{EKB15}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{KIA4SM - Cooperative Integration Architecture for Future
+  Smart Mobility Solutions}
+    \field{month}{04}
+    \field{year}{2015}
+  \endentry
+
   \entry{mundhenk1}{inproceedings}{}
     \name{author}{6}{}{%
       {{hash=MP}{%

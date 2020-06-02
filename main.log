@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  1 JUN 2020 01:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  2 JUN 2020 15:12
 entering extended mode
 **./main.tex
 (main.tex
@@ -78,8 +78,8 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \evensidemargin = 17.3562pt
 (typearea)              \oddsidemargin  = 17.3562pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 555.00024pt
-(typearea)              \topmargin      = 12.2347pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
 (typearea)              \headheight     = 17.0pt
 (typearea)              \headsep        = 20.40001pt
 (typearea)              \topskip        = 11.0pt
@@ -1511,40 +1511,33 @@ Package nag Info: Command \hc@caption not defined, skipping amendment on input
 line 22.
 Package nag Info: Command \topcaption not defined, skipping amendment on input 
 line 22.
- (pages/cover.tex
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 28.
 
-[1
-
-
-
-{C:/Users/oct_9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-(pages/title.tex
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 26.
+(chapters/01_introduction.tex
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 21.
 
  (D:\Programas\MiKTeX\tex/latex/psnfss\ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 26.
-
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 21.
 
 (D:\Programas\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 21.
 
 
 (D:\Programas\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 21.
 
 
 (D:\Programas\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 21.
 
 
 (D:\Programas\MiKTeX\tex/latex/psnfss\ot1zplm.fd
@@ -1554,64 +1547,29 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 35.
  [1
 
 
 
-]
-LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 37.
- [2])
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 36.
-Package tocbasic Info: character protrusion at toc deactivated on input line 36
+{C:/Users/oct_9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
+ [5] [6] [7]
+LaTeX Font Info:    Try loading font information for OMS+pplx on input line 153
 .
- (main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
+LaTeX Font Info:    No file OMSpplx.fd. on input line 153.
 
- [3
-
-
-
-
-]
-(chapters/01_introduction.tex
-chapter 1.
-[1
-
-
-
-] [2]
-chapter 2.
-[3
-
-
-] [4]
-chapter 3.
-[5
-
-
-] [6] [7]
-chapter 4.
-LaTeX Font Info:    Try loading font information for OMS+pplx on input line 64.
-
-LaTeX Font Info:    No file OMSpplx.fd. on input line 64.
 
 LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 64.
+(Font)              for symbol `textbullet' on input line 153.
 
-[8
-
-
-]
-chapter 5.
-[9
-
-
-]) [10]
+) [8]
 chapter without number
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 50.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1625,7 +1583,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 No complaints by nag.
-[11
+[9
 
 
 ]
@@ -1645,11 +1603,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54576 strings out of 492895
- 1211309 string characters out of 3137223
- 1756086 words of memory out of 3000000
- 57496 multiletter control sequences out of 15000+200000
- 577848 words of font info for 224 fonts, out of 3000000 for 9000
+ 54602 strings out of 492895
+ 1212012 string characters out of 3137223
+ 1757013 words of memory out of 3000000
+ 57535 multiletter control sequences out of 15000+200000
+ 587897 words of font info for 241 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  81i,8n,139p,10101b,2193s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oct_9\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -1658,9 +1616,9 @@ eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programas/MiKTeX/fonts/type1/p
 ublic/fpl/fplrc8a.pfb><D:/Programas/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb>
 <D:/Programas/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><D:/Programas/MiKTeX/f
 onts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (15 pages, 135754 bytes).
+Output written on main.pdf (9 pages, 124671 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 38469 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 49685 words of extra memory for PDF output out of 51595 (max. 10000000)
 
