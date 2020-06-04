@@ -3,10 +3,10 @@ The style file: biblatex.bst
 Database file #1: main-blx.bib
 Database file #2: bibliography.bib
 Warning--entry type for "taieb1" isn't style-file defined
---line 45 of file bibliography.bib
+--line 47 of file bibliography.bib
 Warning--entry type for "utz1" isn't style-file defined
---line 51 of file bibliography.bib
+--line 53 of file bibliography.bib
 Warning--entry type for "blieninger1" isn't style-file defined
---line 57 of file bibliography.bib
+--line 59 of file bibliography.bib
 Biblatex version: 3.13
 (There were 3 warnings)

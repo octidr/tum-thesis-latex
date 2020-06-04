@@ -38,6 +38,89 @@
     \field{year}{2019}
   \endentry
 
+  \entry{bersuker1}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BG}{%
+         family={{Bersuker}},
+         familyi={B\bibinitperiod},
+         given={Gennady},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={{Mason}},
+         familyi={M\bibinitperiod},
+         given={Maribeth},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JKL}{%
+         family={{Jones}},
+         familyi={J\bibinitperiod},
+         given={Karen\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGMMJKL1}
+    \strng{fullhash}{BGMMJKL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BMJ18}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{1\bibrangedash 12}
+    \field{title}{Neuromorphic Computing: The Potential for High-Performance
+  Processing in Space}
+    \field{journaltitle}{Game Changer}
+    \field{month}{12}
+    \field{year}{2018}
+  \endentry
+
+  \entry{mckinsey1}{report}{}
+    \name{author}{4}{}{%
+      {{hash=BO}{%
+         family={{Burkacky}},
+         familyi={B\bibinitperiod},
+         given={Ondrej},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={{Deichmann}},
+         familyi={D\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={{Doll}},
+         familyi={D\bibinitperiod},
+         given={Georg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={{Knochenauer}},
+         familyi={K\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BODJDGKC1}
+    \strng{fullhash}{BODJDGKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Bur}+18}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Rethinking Car Software and Electronics Architecture}
+    \verb{url}
+    \verb https://www.gsaglobal.org/wp-content/uploads/2018/12/3.-Rethinking-ca
+    \verb r-software-and-electronics-architecture-Feb-2018.pdf
+    \endverb
+    \list{institution}{1}{%
+      {McKinsey \& Company}%
+    }
+    \field{type}{techreport}
+    \field{month}{02}
+    \field{year}{2018}
+  \endentry
+
   \entry{buttazzo1}{book}{}
     \name{author}{1}{}{%
       {{hash=BGC}{%
@@ -89,8 +172,10 @@
     \field{labelalpha}{EKB15}
     \field{sortinit}{E}
     \field{sortinithash}{E}
+    \field{booktitle}{Conference on Future Automotive Technology (CoFAT)}
     \field{title}{KIA4SM - Cooperative Integration Architecture for Future
   Smart Mobility Solutions}
+    \field{volume}{4}
     \field{month}{04}
     \field{year}{2015}
   \endentry
@@ -150,6 +235,44 @@
     \field{title}{Dynamic platforms for uncertainty management in future
   automotive E/E architectures}
     \field{year}{2017}
+  \endentry
+
+  \entry{navet1}{report}{}
+    \name{author}{3}{}{%
+      {{hash=NN}{%
+         family={{Navet}},
+         familyi={N\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MTL}{%
+         family={{Mai}},
+         familyi={M\bibinitperiod},
+         given={Tieu\bibnamedelima Long},
+         giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={{Migge}},
+         familyi={M\bibinitperiod},
+         given={Jörn},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NNMTLMJ1}
+    \strng{fullhash}{NNMTLMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{NMM19}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Using Machine Learning to Speed Up the Design Space
+  Exploration of Ethernet TSN networks}
+    \list{institution}{1}{%
+      {University of Luxembourg}%
+    }
+    \field{type}{techreport}
+    \field{month}{01}
+    \field{year}{2019}
   \endentry
 
   \entry{taieb1}{misc}{}

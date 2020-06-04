@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  2 JUN 2020 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  4 JUN 2020 01:51
 entering extended mode
 **./main.tex
 (main.tex
@@ -1557,16 +1557,16 @@ LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
 
 {C:/Users/oct_9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
  [5] [6] [7]
-LaTeX Font Info:    Try loading font information for OMS+pplx on input line 153
+LaTeX Font Info:    Try loading font information for OMS+pplx on input line 160
 .
-LaTeX Font Info:    No file OMSpplx.fd. on input line 153.
+LaTeX Font Info:    No file OMSpplx.fd. on input line 160.
 
 
 LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 153.
+(Font)              for symbol `textbullet' on input line 160.
 
-) [8]
+[8]) [9]
 chapter without number
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 50.
@@ -1583,7 +1583,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 No complaints by nag.
-[9
+[10
 
 
 ]
@@ -1603,11 +1603,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54602 strings out of 492895
- 1212012 string characters out of 3137223
- 1757013 words of memory out of 3000000
- 57535 multiletter control sequences out of 15000+200000
- 587897 words of font info for 241 fonts, out of 3000000 for 9000
+ 54656 strings out of 492895
+ 1212819 string characters out of 3137223
+ 1757174 words of memory out of 3000000
+ 57547 multiletter control sequences out of 15000+200000
+ 590207 words of font info for 273 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  81i,8n,139p,10101b,2193s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oct_9\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -1616,9 +1616,9 @@ eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programas/MiKTeX/fonts/type1/p
 ublic/fpl/fplrc8a.pfb><D:/Programas/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb>
 <D:/Programas/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><D:/Programas/MiKTeX/f
 onts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (9 pages, 124671 bytes).
+Output written on main.pdf (10 pages, 132316 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
+ 165 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
  49685 words of extra memory for PDF output out of 51595 (max. 10000000)
 
